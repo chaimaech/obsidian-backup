@@ -1,76 +1,43 @@
 {
   "main": {
-    "id": "cf5122021c83584e",
+    "id": "b9223dd905630e92",
     "type": "split",
     "children": [
       {
-        "id": "d2f7d7d5a45aecd6",
+        "id": "60bd5d3f777fc8fd",
         "type": "tabs",
         "children": [
           {
-            "id": "0eb8a1dc0309b26b",
+            "id": "f8d9a08780ffb817",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "image",
               "state": {
-                "file": "Writing/Abbie Emmons/3_Story_Structure_Updated/3-ACT STORY STRUCTURE - PRINTABLE.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "3-ACT STORY STRUCTURE - PRINTABLE"
-            }
-          },
-          {
-            "id": "bbf3b0306bfdb204",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Untitled"
-            }
-          },
-          {
-            "id": "d8db76670eb3dd41",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled 1.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Untitled 1"
+                "file": "Stories/Wandering Seoul/IMG_4194.PNG"
+              }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "5e73e8443f4fa6f5",
+    "id": "9c1ca09439f8c91a",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "5ee9eff508fd3f05",
+        "id": "e8eda34c50bf1f2d",
         "type": "leaf",
         "state": {
           "type": "file-explorer",
           "state": {
             "sortOrder": "alphabetical"
-          },
-          "icon": "lucide-folder-closed",
-          "title": "Files"
+          }
         }
       },
       {
-        "id": "5dce7dd858375a01",
+        "id": "3f934b118bbaee3d",
         "type": "leaf",
         "state": {
           "type": "search",
@@ -81,48 +48,42 @@
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical"
-          },
-          "icon": "lucide-search",
-          "title": "Search"
+          }
         }
       },
       {
-        "id": "382544de73018789",
+        "id": "56c3da6caab9db21",
         "type": "leaf",
         "state": {
           "type": "tag",
           "state": {
             "sortOrder": "frequency",
             "useHierarchy": true
-          },
-          "icon": "lucide-tags",
-          "title": "Tags"
+          }
         }
       },
       {
-        "id": "05172cff979c6363",
+        "id": "178942d58fc88906",
         "type": "leaf",
         "state": {
           "type": "bookmarks",
-          "state": {},
-          "icon": "lucide-bookmark",
-          "title": "Bookmarks"
+          "state": {}
         }
       }
     ],
     "currentTab": 0
   },
   "right": {
-    "id": "5b5caf57f776c5a2",
+    "id": "4efd648a072ebd07",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "561c571195415a75",
+        "id": "429ee3ac898f90b7",
         "type": "leaf",
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Untitled.md",
+            "file": "Stories/Wandering Seoul/IMG_4194.PNG",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -130,39 +91,42 @@
             "searchQuery": "",
             "backlinkCollapsed": false,
             "unlinkedCollapsed": true
-          },
-          "icon": "links-coming-in",
-          "title": "Backlinks"
+          }
         }
       },
       {
-        "id": "aede1799eba7227d",
+        "id": "5b12d189a921380d",
         "type": "leaf",
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Untitled.md",
+            "file": "Stories/Wandering Seoul/IMG_4194.PNG",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
-          },
-          "icon": "links-going-out",
-          "title": "Outgoing links"
+          }
         }
       },
       {
-        "id": "621fa24bb4e67a88",
+        "id": "92939d335a1b7a67",
         "type": "leaf",
         "state": {
           "type": "outline",
           "state": {
-            "file": "Untitled.md"
-          },
-          "icon": "lucide-list",
-          "title": "Outline"
+            "file": "Stories/Wandering Seoul/IMG_4194.PNG"
+          }
+        }
+      },
+      {
+        "id": "dfcfd802dc2f6560",
+        "type": "leaf",
+        "state": {
+          "type": "git-view",
+          "state": {}
         }
       }
     ],
-    "currentTab": 3
+    "currentTab": 3,
+    "pinned": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -175,13 +139,25 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d8db76670eb3dd41",
+  "active": "f8d9a08780ffb817",
   "lastOpenFiles": [
     "Untitled.md",
-    "My way back to life (Wandering Seoul).md",
+    "Writing/Abbie Emmons/Main_Character_Profile_Updated/CHARACTER PROFILE NEW.docx",
+    "Writing/Abbie Emmons/Main_Character_Profile_Updated/CHARACTER PROFILE NEW.pdf",
+    "Writing/Abbie Emmons/3_Story_Structure_Updated/3-ACT STORY STRUCTURE - COPYPASTE.docx",
     "Writing/Abbie Emmons/3_Story_Structure_Updated/3-ACT STORY STRUCTURE - PRINTABLE.pdf",
-    "Untitled 1.md",
-    "Untitled",
-    "Stories/Coming Down/Screenshot_20240128_161619_X.jpg"
+    "Writing/Abbie Emmons/Negative_Character_Arc_Template/Negative Character Arc Prompts COPYPASTE.docx",
+    "Writing/Abbie Emmons/Negative_Character_Arc_Template/Negative Character Arc Printable Template.pdf",
+    "Writing/Abbie Emmons/Enneagram_Cheat_Sheet/Enneagram Cheat Sheet for Writing - WritersLife Wednesdays.pdf",
+    "Writing/Abbie Emmons/Enneagram_Cheat_Sheet/Enneagram Cheat Sheet for Writing - WritersLife Wednesdays.docx",
+    "Writing/Abbie Emmons/Side_Character_Profile/Side Character Profile Template COPYPASTE.docx",
+    "Writing/Abbie Emmons/Side_Character_Profile/Side Character Profile Template PRINTABLE.pdf",
+    "Stories/Wandering Seoul/IMG_4194.PNG",
+    "Stories/Coming Down/Screenshot_20240125_153420_X.jpg",
+    "Stories/Coming Down/Screenshot_20240128_161619_X.jpg",
+    "/Untitled.md",
+    "/Stories/Wandering Seoul/IMG_4194.PNG",
+    "/Stories/Coming Down/Screenshot_20240128_161619_X.jpg",
+    "/Stories/Coming Down/Screenshot_20240125_153420_X.jpg"
   ]
 }
