@@ -11,9 +11,11 @@
             "id": "f8d9a08780ffb817",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Stories/Wandering Seoul/IMG_4194.PNG"
+                "file": "Stories/Wandering Seoul/My way back to life (Wandering Seoul).md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Stories/Wandering Seoul/IMG_4194.PNG",
+            "file": "Stories/Wandering Seoul/My way back to life (Wandering Seoul).md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Stories/Wandering Seoul/IMG_4194.PNG",
+            "file": "Stories/Wandering Seoul/My way back to life (Wandering Seoul).md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -112,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Stories/Wandering Seoul/IMG_4194.PNG"
+            "file": "Stories/Wandering Seoul/My way back to life (Wandering Seoul).md"
           }
         }
       },
@@ -125,8 +127,7 @@
         }
       }
     ],
-    "currentTab": 3,
-    "pinned": true
+    "currentTab": 3
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -139,8 +140,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f8d9a08780ffb817",
+  "active": "dfcfd802dc2f6560",
   "lastOpenFiles": [
+    "Stories/Wandering Seoul/IMG_4194.PNG",
+    "Stories/Wandering Seoul/My way back to life (Wandering Seoul).md",
+    "Stories/Wandering Seoul/My way back to life (Wandering Seoul).txt",
     "Untitled.md",
     "Writing/Abbie Emmons/Main_Character_Profile_Updated/CHARACTER PROFILE NEW.docx",
     "Writing/Abbie Emmons/Main_Character_Profile_Updated/CHARACTER PROFILE NEW.pdf",
@@ -151,8 +155,6 @@
     "Writing/Abbie Emmons/Enneagram_Cheat_Sheet/Enneagram Cheat Sheet for Writing - WritersLife Wednesdays.pdf",
     "Writing/Abbie Emmons/Enneagram_Cheat_Sheet/Enneagram Cheat Sheet for Writing - WritersLife Wednesdays.docx",
     "Writing/Abbie Emmons/Side_Character_Profile/Side Character Profile Template COPYPASTE.docx",
-    "Writing/Abbie Emmons/Side_Character_Profile/Side Character Profile Template PRINTABLE.pdf",
-    "Stories/Wandering Seoul/IMG_4194.PNG",
     "Stories/Coming Down/Screenshot_20240125_153420_X.jpg",
     "Stories/Coming Down/Screenshot_20240128_161619_X.jpg",
     "/Untitled.md",
