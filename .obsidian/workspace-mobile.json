@@ -1,14 +1,26 @@
 {
   "main": {
-    "id": "b9223dd905630e92",
+    "id": "cf5122021c83584e",
     "type": "split",
     "children": [
       {
-        "id": "60bd5d3f777fc8fd",
+        "id": "d2f7d7d5a45aecd6",
         "type": "tabs",
         "children": [
           {
-            "id": "f8d9a08780ffb817",
+            "id": "0eb8a1dc0309b26b",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Writing/Abbie Emmons/3_Story_Structure_Updated/3-ACT STORY STRUCTURE - PRINTABLE.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "3-ACT STORY STRUCTURE - PRINTABLE"
+            }
+          },
+          {
+            "id": "bbf3b0306bfdb204",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -16,30 +28,49 @@
                 "file": "Untitled.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
+            }
+          },
+          {
+            "id": "d8db76670eb3dd41",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "9c1ca09439f8c91a",
+    "id": "5e73e8443f4fa6f5",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "e8eda34c50bf1f2d",
+        "id": "5ee9eff508fd3f05",
         "type": "leaf",
         "state": {
           "type": "file-explorer",
           "state": {
             "sortOrder": "alphabetical"
-          }
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
         }
       },
       {
-        "id": "3f934b118bbaee3d",
+        "id": "5dce7dd858375a01",
         "type": "leaf",
         "state": {
           "type": "search",
@@ -50,37 +81,43 @@
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical"
-          }
+          },
+          "icon": "lucide-search",
+          "title": "Search"
         }
       },
       {
-        "id": "56c3da6caab9db21",
+        "id": "382544de73018789",
         "type": "leaf",
         "state": {
           "type": "tag",
           "state": {
             "sortOrder": "frequency",
             "useHierarchy": true
-          }
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
         }
       },
       {
-        "id": "178942d58fc88906",
+        "id": "05172cff979c6363",
         "type": "leaf",
         "state": {
           "type": "bookmarks",
-          "state": {}
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
         }
       }
     ],
     "currentTab": 0
   },
   "right": {
-    "id": "4efd648a072ebd07",
+    "id": "5b5caf57f776c5a2",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "429ee3ac898f90b7",
+        "id": "561c571195415a75",
         "type": "leaf",
         "state": {
           "type": "backlink",
@@ -93,11 +130,13 @@
             "searchQuery": "",
             "backlinkCollapsed": false,
             "unlinkedCollapsed": true
-          }
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
         }
       },
       {
-        "id": "5b12d189a921380d",
+        "id": "aede1799eba7227d",
         "type": "leaf",
         "state": {
           "type": "outgoing-link",
@@ -105,30 +144,35 @@
             "file": "Untitled.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
-          }
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
         }
       },
       {
-        "id": "92939d335a1b7a67",
+        "id": "621fa24bb4e67a88",
         "type": "leaf",
         "state": {
           "type": "outline",
           "state": {
             "file": "Untitled.md"
-          }
+          },
+          "icon": "lucide-list",
+          "title": "Outline"
         }
       },
       {
-        "id": "dfcfd802dc2f6560",
+        "id": "4f2e60d1854ddda6",
         "type": "leaf",
         "state": {
           "type": "git-view",
-          "state": {}
+          "state": {},
+          "icon": "git-pull-request",
+          "title": "Source Control"
         }
       }
     ],
-    "currentTab": 3,
-    "pinned": true
+    "currentTab": 3
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -141,25 +185,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f8d9a08780ffb817",
+  "active": "d8db76670eb3dd41",
   "lastOpenFiles": [
-    "Untitled.md",
-    "Writing/Abbie Emmons/Main_Character_Profile_Updated/CHARACTER PROFILE NEW.docx",
-    "Writing/Abbie Emmons/Main_Character_Profile_Updated/CHARACTER PROFILE NEW.pdf",
-    "Writing/Abbie Emmons/3_Story_Structure_Updated/3-ACT STORY STRUCTURE - COPYPASTE.docx",
+    "My way back to life (Wandering Seoul).md",
     "Writing/Abbie Emmons/3_Story_Structure_Updated/3-ACT STORY STRUCTURE - PRINTABLE.pdf",
-    "Writing/Abbie Emmons/Negative_Character_Arc_Template/Negative Character Arc Prompts COPYPASTE.docx",
-    "Writing/Abbie Emmons/Negative_Character_Arc_Template/Negative Character Arc Printable Template.pdf",
-    "Writing/Abbie Emmons/Enneagram_Cheat_Sheet/Enneagram Cheat Sheet for Writing - WritersLife Wednesdays.pdf",
-    "Writing/Abbie Emmons/Enneagram_Cheat_Sheet/Enneagram Cheat Sheet for Writing - WritersLife Wednesdays.docx",
-    "Writing/Abbie Emmons/Side_Character_Profile/Side Character Profile Template COPYPASTE.docx",
-    "Writing/Abbie Emmons/Side_Character_Profile/Side Character Profile Template PRINTABLE.pdf",
-    "Stories/Wandering Seoul/IMG_4194.PNG",
-    "Stories/Coming Down/Screenshot_20240125_153420_X.jpg",
-    "Stories/Coming Down/Screenshot_20240128_161619_X.jpg",
-    "/Untitled.md",
-    "/Stories/Wandering Seoul/IMG_4194.PNG",
-    "/Stories/Coming Down/Screenshot_20240128_161619_X.jpg",
-    "/Stories/Coming Down/Screenshot_20240125_153420_X.jpg"
+    "Untitled 1.md",
+    "Untitled",
+    "Untitled.md",
+    "Stories/Coming Down/Screenshot_20240128_161619_X.jpg"
   ]
 }
